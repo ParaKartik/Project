@@ -22,6 +22,7 @@ public class Demo {
 	      	     aa= aa+(char)(kk.charAt(i)+32);
 	      }
 	         System.out.println(aa);
+	         System.out.println();
 	}
 
 }
